@@ -12,7 +12,10 @@
     after downloading repository, run npm i, npm run start, once it is running, open url and open on port. From there it can be run or installed.
 
 ## &nbsp;&nbsp;&nbsp;  Usage  
-    See diagrams to show how it should looking running on line as well as running offline.  
+Direct Link to deployed site:  
+[Click here](https://progressivewebapp-display.onrender.com/) 
+  
+See diagrams to show how it should looking running on line as well as running offline.  
 Online:  
 ![MockUp](readme_img/online.png)  
   
